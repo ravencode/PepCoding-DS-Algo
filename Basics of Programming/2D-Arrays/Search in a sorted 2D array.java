@@ -32,7 +32,7 @@ public class Main {
             }
         }
         
-        System.out.println("Not found");
+        System.out.println("Not Found");
         
     }
 
